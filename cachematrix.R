@@ -1,5 +1,5 @@
 ## Put comments here that give an overall description of what your
-## functions do
+## functions do return the inverse of a square matrix and cached it for faster response time 
 
 ## Write a short comment describing this function
 ## makeCacheMatrix is a function that takes square matrix as input, it has 4 functions:, set, get, set_Inverse and get_inverse ##
